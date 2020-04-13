@@ -2,6 +2,7 @@
 
 All [OPAM](https://opam.ocaml.org) repositories for Coq packages live here.
 Packages are organized according to the [layout](https://coq.inria.fr/opam-layout.html).
+More information can be found from the [coq homepage](https://coq.inria.fr/opam-packaging.html).
 
 ## Repositories
 
